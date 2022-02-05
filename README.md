@@ -4,8 +4,6 @@ Kode sumber dari buku Genetic Algorithms with Python oleh Clinton Sheppard
 
 # Keterangan
 
-[Edición española](https://github.com/handcraftsman/GeneticAlgorithmsWithPython/tree/master/es#descripción)
-
 <img align="right" src="http://www.cs.unm.edu/~sheppard/img/Genetic_Algorithms_with_Python_cover.jpg" alt="Genetic Algorithms with Python cover">
 Dapatkan pengenalan langsung tentang pembelajaran mesin dengan algoritme genetika menggunakan Python. Tutorial langkah demi langkah membangun keterampilan Anda dari Hello World! untuk mengoptimalkan satu algoritma genetika dengan yang lain, dan akhirnya pemrograman genetika; sehingga mempersiapkan Anda untuk menerapkan algoritme genetika pada masalah di bidang keahlian Anda sendiri.
 
